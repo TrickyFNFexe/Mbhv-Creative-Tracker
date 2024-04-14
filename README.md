@@ -40,8 +40,8 @@ Mbhv Creative Tracker is a plugin designed to track and log items brought from c
 
 The full source code for this plugin is available here.
 
-## Follow for More
+## Follow for More!!!!
 
-Stay tuned for more plugins like this one by following the project on GitHub!
+For any questions, please message me on discord: MemeMan9977
 
 ---
