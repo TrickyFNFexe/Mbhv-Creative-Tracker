@@ -27,13 +27,9 @@ Mbhv Creative Tracker is a plugin designed to track and log items brought from c
 - **Native Minecraft Version:** 1.19
 - **Tested Minecraft Versions:** 1.19, 1.20
 
-## Documentation
-
-For detailed documentation, including commands and configuration options, please refer to the [project's README](link-to-project-readme).
-
 ## Logging
 
-- Logged instances of creative-brought items are stored in the logging file [Screenshot 2024-04-14 184234.png](link-to-logging-file).
+- Logged instances of creative-brought items are stored in the logging file [Screenshot 2024-04-14 184234.png]( ).
 
 ## In-Game Screenshots
 
