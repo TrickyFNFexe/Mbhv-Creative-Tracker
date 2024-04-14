@@ -14,7 +14,7 @@ Mbhv Creative Tracker is a plugin designed to track and log items brought from c
 
 ## Installation
 
-1. **Download:** Download the plugin JAR file from the [releases page](link-to-releases-page).
+1. **Download:** Download the plugin JAR file from the [releases page](https://www.spigotmc.org/resources/mbhv-creative-tracker.116197/).
 2. **Installation:** Place the JAR file into the `plugins` folder of your Minecraft server directory.
 3. **Restart:** Restart or reload your server.
 
@@ -37,17 +37,15 @@ For detailed documentation, including commands and configuration options, please
 
 ## In-Game Screenshots
 
-- ![Brought diamond blocks from creative](link-to-diamond-blocks-screenshot)
-- ![Brought netherite blocks from creative](link-to-netherite-blocks-screenshot)
+- ![Brought diamond blocks from creative](https://www.spigotmc.org/attachments/screenshot-2024-04-14-184308-png.824896/)
+- ![Brought netherite blocks from creative](https://www.spigotmc.org/attachments/screenshot-2024-04-14-184321-png.824897/)
 
 ## Source Code
 
-The full source code for this plugin is available on [GitHub](link-to-github-repository). Feel free to explore and contribute!
+The full source code for this plugin is available here.
 
 ## Follow for More
 
 Stay tuned for more plugins like this one by following the project on GitHub!
 
 ---
-
-Thank you for using Mbhv Creative Tracker! If you have any questions, feedback, or encounter any issues, please don't hesitate to reach out. Happy Minecrafting!
