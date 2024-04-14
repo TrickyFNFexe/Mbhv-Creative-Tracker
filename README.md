@@ -33,8 +33,8 @@ Mbhv Creative Tracker is a plugin designed to track and log items brought from c
 
 ## In-Game Screenshots
 
-- ![Brought diamond blocks from creative](https://www.spigotmc.org/attachments/screenshot-2024-04-14-184308-png.824896/)
-- ![Brought netherite blocks from creative](https://www.spigotmc.org/attachments/screenshot-2024-04-14-184321-png.824897/)
+- ![Brought diamond blocks from creative](https://raw.githubusercontent.com/TrickyFNFexe/Mbhv-Creative-Tracker/main/github/Screenshot%202024-04-14%20184308.png)
+- ![Brought netherite blocks from creative](https://raw.githubusercontent.com/TrickyFNFexe/Mbhv-Creative-Tracker/main/github/Screenshot%202024-04-14%20184321.png)
 
 ## Source Code
 
