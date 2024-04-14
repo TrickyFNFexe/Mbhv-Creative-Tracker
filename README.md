@@ -29,7 +29,7 @@ Mbhv Creative Tracker is a plugin designed to track and log items brought from c
 
 ## Logging
 
-- Logged instances of creative-brought items are stored in the logging file [Screenshot 2024-04-14 184234.png]( ).
+- Logged instances of creative-brought items are stored in the logging file ![logs](https://raw.githubusercontent.com/TrickyFNFexe/Mbhv-Creative-Tracker/main/github/Screenshot%202024-04-14%20184234.png).
 
 ## In-Game Screenshots
 
